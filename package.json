@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.2",
@@ -20,6 +20,7 @@
     "reactstrap": "^8.5.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
+    "serve": "^11.3.2",
     "uuid": "^8.3.0"
   },
   "devDependencies": {},
